@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+[
+  {
+    "transaction_hash": "24087a08309ea5796ef139e65f13ce10db1e4465057b665b9d5102a640aac6be",
+    "output_index": 0,
+    "amount": 1000,
+    "script": "OP_DUP OP_HASH160 119b098e2e980a229e139a9ed01a469e518e6f26 OP_EQUALVERIFY OP_CHECKSIG",
+    "script_hex": "76a914119b098e2e980a229e139a9ed01a469e518e6f2688ac",
+    "script_type": "hash160",
+    "addresses": [
+      "12c6DSiU4Rq3P4ZxziKxzrL5LmMBrzjrJX"
+    ],
+    "spent": false,
+    "confirmations": 8304
+  }
+]

@@ -1,0 +1,36 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{
+  "hash": "0e3e2357e806b6cdb1f70b54c3a3a17b6714ee1f0e68bebb44a74b1efd512098",
+  "version": 1,
+  "lock_time": 0,
+  "size": 134,
+  "inputs": [
+    {
+      "previous_transaction_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "output_index": 4294967295,
+      "amount": 5000000000,
+      "coinbase": "04ffff001d0104"
+    }
+  ],
+  "outputs": [
+    {
+      "amount": 5000000000,
+      "spent": false,
+      "script": "0496b538e853519c726a2c91e61ec11600ae1390813a627c66fb8be7947be63c52da7589379515d4e0a604f8141781e62294721166bf621e73a82cbf2342c858ee OP_CHECKSIG",
+      "script_hex": "410496b538e853519c726a2c91e61ec11600ae1390813a627c66fb8be7947be63c52da7589379515d4e0a604f8141781e62294721166bf621e73a82cbf2342c858eeac",
+      "script_type": "pubkey",
+      "addresses": [
+        "12c6DSiU4Rq3P4ZxziKxzrL5LmMBrzjrJX"
+      ]
+    }
+  ],
+  "amount": 5000000000,
+  "fees": 0,
+  "confirmations": 320849,
+  "block_height": 1,
+  "block_hash": "00000000839a8e6886ab5951d76f411475428afc90947ee320161bbf18eb6048",
+  "block_time": "2009-01-09T02:54:25Z",
+  "block_branch": "main"
+}

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{
+  "hash": "0000000000000000085a5e54dddaaf822e06011b38201082b74bea51ec08727c",
+  "branch": "main",
+  "previous_block_hash": "00000000000000002323c992d7d4d6e742270bc6a71d94bbb2b28ff623a79de1",
+  "next_blocks": [
+    {
+      "hash": "000000000000000015c7ca7f4f29ecaae86fc40a7b9dc385fefc38c3b733a863",
+      "branch": "orphan",
+      "height": 270
+    }
+  ],
+  "height": 319420,
+  "confirmations": 0,
+  "merkle_root": "3e8a8e4f727fce772ac8bba486f603145d7ed238cb50088e68aa814d210bfb11",
+  "time": "2014-09-06T18:08:38Z",
+  "created_at": "2014-09-06T18:13:12Z",
+  "nonce": 1605584395,
+  "bits": 405280238,
+  "difficulty": 27428630902.257942,
+  "reward": 2500000000,
+  "fees": 12323529,
+  "total_out": 207279237910,
+  "size": 429018,
+  "transactions_count": 820,
+  "version": 2,
+  "transaction_hashes": [
+    "72e6f86887d3612e7e88e3b092f5724974076174176d914be1f72ed707e20000",
+    "..."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "cbix/toshi-php",
+    "description": "PHP library for the Toshi Bitcoin API",
+    "keywords": ["bitcoin"],
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gareth Davies",
+            "email": "gareth@cbix.ca"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "4.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*",
+        "codeclimate/php-test-reporter": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cbix\\": "src/"
+        }
+    }
+}

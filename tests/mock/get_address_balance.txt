@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{
+  "hash": "12c6DSiU4Rq3P4ZxziKxzrL5LmMBrzjrJX",
+  "balance": 5002467686,
+  "received": 5002477686,
+  "sent": 0,
+  "unconfirmed_received": 10000,
+  "unconfirmed_sent": 0,
+  "unconfirmed_balance": 5002477686
+}
