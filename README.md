@@ -1,6 +1,10 @@
 Toshi-PHP
 ========
 
+[![Build Status](https://travis-ci.org/Digital-Currency-Research/Toshi-PHP.svg)](https://travis-ci.org/Digital-Currency-Research/Toshi-PHP)
+[![Code Climate](https://codeclimate.com/github/Digital-Currency-Research/Toshi-PHP/badges/gpa.svg)](https://codeclimate.com/github/Digital-Currency-Research/Toshi-PHP)
+[![Test Coverage](https://codeclimate.com/github/Digital-Currency-Research/Toshi-PHP/badges/coverage.svg)](https://codeclimate.com/github/Digital-Currency-Research/Toshi-PHP)
+
 This library provides a simple PHP interface to the [Toshi Bitcoin API](https://toshi.io/).
 
 ### Installing via Composer
