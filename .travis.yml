@@ -9,7 +9,7 @@ php:
 
 addons:
   code_climate:
-    repo_token: 08911cac0ac4ce423ce0c7504086292c45bd80441eeb35725e6c6d9898
+    repo_token: 08911cac0ac4ce423ce0c7504086292c45bd80441eeb35725e6c6d9898dbf650
 
 before_script:
   - curl -s http://getcomposer.org/installer | php
